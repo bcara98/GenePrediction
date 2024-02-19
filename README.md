@@ -1,4 +1,4 @@
-## Team 2 - Gene Prediction
+## Gene Prediction
 
 Our task was to take 50 assembled genomes (contigs) and find their CoDing Sequences (CDSs), and return files in .gff and .fna formats. 
 
